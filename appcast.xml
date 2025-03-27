@@ -3,12 +3,12 @@
     <channel>
         <title>Sparkle</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Thu, 27 Mar 2025 12:56:59 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Fri, 28 Mar 2025 00:57:25 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="62541488" type="application/octet-stream" sparkle:edSignature="045PW9s3SPPAQGfCZERyjtncOw3FvawdMhpfNDzw3S4rNu4Pt6gH1Y9ij5i7Ppw8QnInpwFLq6QYjlzCWU7LCg=="/>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="62577812" type="application/octet-stream" sparkle:edSignature="urHfYSPwasqhd+Okj94rQx+KcpVvX1t5COtoce+ImIgysNzywoMdjb5g0rCwuTseZFfXlj7TTDyZlFXrUTGACg=="/>
         </item>
     </channel>
 </rss>
