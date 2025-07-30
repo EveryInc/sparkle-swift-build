@@ -8,7 +8,7 @@
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/v1.4.9/Sparkle-1.4.9.dmg" length="154562033" type="application/octet-stream" sparkle:edSignature="+WAHwDFRZ56HZ0ax6NwndRmRrhsZJjfQEzFzrO+kpOo5+Ukf49PFzfMvw+9AXMTsGYUrlpGneejr0YZxPBCpDg=="/>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle-1.4.9.dmg" length="154562033" type="application/octet-stream" sparkle:edSignature="+WAHwDFRZ56HZ0ax6NwndRmRrhsZJjfQEzFzrO+kpOo5+Ukf49PFzfMvw+9AXMTsGYUrlpGneejr0YZxPBCpDg=="/>
         </item>
         <item>
             <title>1.4.8</title>
