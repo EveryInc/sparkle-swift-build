@@ -3,6 +3,14 @@
     <channel>
         <title>Sparkle</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Thu, 02 Oct 2025 17:25:00 +0530</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="174854279" type="application/octet-stream" sparkle:edSignature="779erp75iLlrMsJHgEFZXWBg/DVxTUPGuI3dLxTReet5GpeMH5jOlTqMKAnrIzp0GDf6neQBBoavwDRjMc8HAA=="/>
+        </item>
+        <item>
             <title>1.5.8</title>
             <pubDate>Mon, 01 Sep 2025 19:41:41 +0530</pubDate>
             <sparkle:version>56</sparkle:version>
