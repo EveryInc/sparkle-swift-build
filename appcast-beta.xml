@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sparkle Beta</title>
+        <item>
+            <title>1.7.1b3</title>
+            <pubDate>Thu, 18 Dec 2025 21:30:00 +0530</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>1.7.1b3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="186513250" type="application/octet-stream" sparkle:edSignature="q0UbWUgzWg1UJu44/la8TXpDI5n0m1ck1G6tMuOiP9pU5hWH1UTRnDvRg/wlwHRdPcrbCwz47e3PFG8+dfT8Aw=="/>
+        </item>
+        <item>
+            <title>1.7.1b1</title>
+            <pubDate>Fri, 29 Nov 2025 15:03:00 +0530</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.7.1b1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="185123456" type="application/octet-stream" sparkle:edSignature="OLD_SIGNATURE"/>
+        </item>
+    </channel>
+</rss>
