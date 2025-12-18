@@ -3,6 +3,15 @@
     <channel>
         <title>Sparkle</title>
         <item>
+          <title>1.7.1 Beta 1</title>
+          <sparkle:channel>beta</sparkle:channel>
+          <pubDate>Wed, 17 Dec 2025 23:49:35 +0530</pubDate>
+          <sparkle:version>85</sparkle:version>
+          <sparkle:shortVersionString>1.7.1b1</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+          <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="186514012" type="application/octet-stream" sparkle:edSignature="9tYm9qe/tkKEuOZ9D9GQYOaFU5RW7+HjUBSY+0O+gLIsWldp0dez4fpEjtYpnaCAmWkoQBGZfoWX5lmz9QDaCw=="/>
+        </item>
+        <item>
             <title>1.6.6</title>
             <pubDate>Tue, 14 Oct 2025 18:07:44 +0530</pubDate>
             <sparkle:version>74</sparkle:version>
