@@ -12,6 +12,14 @@
           <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="186344411" type="application/octet-stream" sparkle:edSignature="WF1hOlxhYwxwIESXOYt1V7X8iViNCf+MKQdNkqis1RlEBpM5Ex+4hYYUhYeJnSzU04KycmUuYScpCIMuAc79Dg=="/>
         </item>
         <item>
+            <title>1.6.8</title>
+            <pubDate>Wed, 25 Dec 2025 02:30:00 +0530</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="168939534" type="application/octet-stream" sparkle:edSignature="BW6OVhF4mn9Yi6390L7qMrN2C1+Xvh/TBGGO+GqwEamls9BSQKcpuqFSfEFMszgZfNPBvKXvhhXh0sa0oXdIBw=="/>
+        </item>
+        <item>
             <title>1.6.7</title>
             <pubDate>Tue, 24 Dec 2025 16:00:00 +0530</pubDate>
             <sparkle:version>75</sparkle:version>
