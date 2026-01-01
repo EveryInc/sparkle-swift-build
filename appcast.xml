@@ -13,11 +13,11 @@
         </item>
         <item>
             <title>1.6.9</title>
-            <pubDate>Thu, 01 Jan 2026 16:32:22 +0530</pubDate>
+            <pubDate>Thu, 01 Jan 2026 16:57:06 +0530</pubDate>
             <sparkle:version>77</sparkle:version>
             <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="174879412" type="application/octet-stream" sparkle:edSignature="D2bsFSOBMcgWj0ZXTmHHHJnFg3+PjHDvF+Q3YVr163icR2UksU5LmYiYNLDU7J0P0SIxI9V5YoeIudB0wxb2Dw=="/>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/prod/Sparkle.dmg" length="174879463" type="application/octet-stream" sparkle:edSignature="EcITeqrmlkSYM9sVun0qSKlQqcv2OGnLXYfeYhUhu4DM1nwglaBbIzlpvKlJHLe5lVCZThwpDRjJyiAXG6aaDA=="/>
         </item>
         <item>
             <title>1.6.8</title>
