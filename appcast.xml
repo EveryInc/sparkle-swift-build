@@ -3,13 +3,13 @@
     <channel>
         <title>Sparkle</title>
         <item>
-          <title>1.7.1 Beta 7</title>
+          <title>1.7.1 Beta 10</title>
           <sparkle:channel>beta</sparkle:channel>
-          <pubDate>Sun, 12 Jan 2026 13:54:00 +0530</pubDate>
-          <sparkle:version>91</sparkle:version>
-          <sparkle:shortVersionString>1.7.1b7</sparkle:shortVersionString>
+          <pubDate>Wed, 12 Feb 2026 23:13:00 +0530</pubDate>
+          <sparkle:version>95</sparkle:version>
+          <sparkle:shortVersionString>1.7.1b10</sparkle:shortVersionString>
           <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-          <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="189947169" type="application/octet-stream" sparkle:edSignature="8KxS5YIySn0KUl78SFtFQ4qEyxugfXJPALEUjxuyxSAB3onipFcW9Zplwj6XkB0pLvgHtlPNQedbg6XygqjZAA=="/>
+          <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/beta/Sparkle.dmg" length="194628134" type="application/octet-stream" sparkle:edSignature="50vXmgv/PNOM1B2gmKwORzXL/fSpLdgwskn7SLjrsxSPV6ZouPZ5iD+ps0PZmGRkwQXApb8Z3SWHOL66YkiTCw=="/>
         </item>
         <item>
             <title>1.6.9</title>
