@@ -3,6 +3,15 @@
     <channel>
         <title>Sparkle</title>
         <item>
+            <title>1.7.2c25</title>
+            <sparkle:channel>canary</sparkle:channel>
+            <pubDate>Fri, 10 Apr 2026 10:43:43 +0530</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>1.7.2c25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EveryInc/sparkle-swift-build/releases/download/canary/Sparkle.dmg" length="180443085" type="application/octet-stream" sparkle:edSignature="CwrJht4uQlY7e9y1oaLf9YpmtqN6L++6PujyPUJj4MyionWEJadz5FgtORP3ODHDY+oDsEx4E4WLRIaHSQ99Ag=="/>
+        </item>
+        <item>
             <title>1.7.2c23</title>
             <sparkle:channel>canary</sparkle:channel>
             <pubDate>Wed, 25 Mar 2026 18:52:05 +0530</pubDate>
